@@ -156,11 +156,11 @@ canvas.focus_set()
 canvas.pack()
 
 
-
-level = Level()
-Ball()
 pal1()
 pal2()
+level = Level()
+Ball()
+
 #bump = Bump(canvas)
 
 manual_window.withdraw()
