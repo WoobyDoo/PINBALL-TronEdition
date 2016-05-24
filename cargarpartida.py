@@ -1,8 +1,0 @@
-name=input("Ingrese el nombre de la partida guardada : ")
-archi=open(name+".txt","r")
-nombre=archi.readline()
-puntos=archi.readline()
-vidas=archi.readline()
-print("Nombre : ",nombre)
-print("Puntos : ",puntos)
-print("Vidas : ",vidas)
