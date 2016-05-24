@@ -19,13 +19,13 @@ MODULES (from Python) used in the game:
 + Tkinter
 
 INSTALLATION:
-You need preinstalled the Python programming language and the Pygame library (for executing sounds).
-For playing Pinball: TRON Edition you have to download the .zip archive and inside of it, you´ll find the main game archive,
+You need preinstalled the Python programming language and the Pygame library (for executing sounds).\n
+For playing Pinball: TRON Edition you have to download the .zip archive and inside of it, you´ll find the main game archive,\n
 the images and sounds used on it; then you should open the "TEST DEF" archive and play!.
 
 FAQ's:
-1 The game doesn't run, what do i do?
-+ You should check that you have Python preinstalled preferably on the latest version
+1 The game doesn't run, what do i do?\n
++ You should check that you have Python preinstalled preferably on the latest version\n
 2 Images do not load
 + Verify that you have had unzipped the .zip archive and have all the content on the same folder
 3 Sounds do not load
