@@ -25,11 +25,11 @@ the images and sounds used on it; then you should open the "TEST DEF" archive an
 
 ##FAQ's:
 1. The game doesn't run, what do i do?\n
-+ You should check that you have Python preinstalled preferably on the latest version\n
+  + You should check that you have Python preinstalled preferably on the latest version
 2. Images do not load
-+ Verify that you have had unzipped the .zip archive and have all the content on the same folder
+  + Verify that you have had unzipped the .zip archive and have all the content on the same folder
 3. Sounds do not load
-+ Check that you have installed the Pygame library, you can download the latest version in [GitHub Pages](python.org)
+  + Check that you have installed the Pygame library, you can download the latest version in [GitHub Pages](python.org)
 
 ##CREDITS:
 This game is entirely made wih the Tkinter GUI module for the programming language Python by 
@@ -58,12 +58,12 @@ Para poder jugar a Pinball: TRON Edition debes descargar el archivo .zip que con
 las imagenes integradas y los sonidos usados; luego debes abrir el archivo "TEST DEF" y a jugar!.
 
 ##FAQ's:
-1 El juego no corre, que hago?
-+ Debes verificar que hayas preinstalado Python en la ultima version preferiblemente
-2 No cargan las imagenes
-+ Verifica que hayas descomprimido el .zip y tengas todo el contenido en una misma carpeta
-3 No cargan los sonidos
-+ Verifica que hayas instalado la libreria Pygame, puedes descargar la ultima version en [GitHub Pages](python.org)
+1. El juego no corre, que hago?
+  + Debes verificar que hayas preinstalado Python en la ultima version preferiblemente
+2. No cargan las imagenes
+  + Verifica que hayas descomprimido el .zip y tengas todo el contenido en una misma carpeta
+3. No cargan los sonidos
+  + Verifica que hayas instalado la libreria Pygame, puedes descargar la ultima version en [GitHub Pages](python.org)
 
 ##CREDITOS
 Este juego ha sido creado exclusivo con la interfaz grafica de usuario Tkinter para el lenguaje de programacion
