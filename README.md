@@ -1,6 +1,6 @@
-# PINBALL-TronEdition
+## Pinball: TRON Edition
 ###################################
-##       README  / LEEME         ##
+#       README  / LEEME         ##
 ###################################
 
 #-------------ENGLISH-------------#
@@ -24,7 +24,7 @@ For playing Pinball: TRON Edition you have to download the .zip archive and insi
 the images and sounds used on it; then you should open the "TEST DEF" archive and play!.
 
 ##FAQ's:
-1. The game doesn't run, what do i do?\n
+1. The game doesn't run, what do i do?
   + You should check that you have Python preinstalled preferably on the latest version
 2. Images do not load
   + Verify that you have had unzipped the .zip archive and have all the content on the same folder
@@ -35,7 +35,6 @@ the images and sounds used on it; then you should open the "TEST DEF" archive an
 This game is entirely made wih the Tkinter GUI module for the programming language Python by 
 Diego Felipe Galarza Chamorro, student of System & Computer Engineering for the course Introduction to Programming 
 at the Pontifica Universidad Javeriana, Cali, Colombia, 2016
-#---------------------------------#
 
 #-------------ESPAÑOL-------------#
 Hola,
@@ -69,4 +68,3 @@ las imagenes integradas y los sonidos usados; luego debes abrir el archivo "TEST
 Este juego ha sido creado exclusivo con la interfaz grafica de usuario Tkinter para el lenguaje de programacion
 Python por Diego Felipe Galarza Ch., estudiante de Ingenieria de Sistemas y Computacion para el curso de 
 Introduccion a la Programacion en la Pontificia Universidad Javeriana, Cali, Colombia, 2016.
-#---------------------------------#
